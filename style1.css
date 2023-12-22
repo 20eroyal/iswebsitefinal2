@@ -1,0 +1,41 @@
+
+
+    body {
+        background-color:antiquewhite; /* Change the hex color to whatever you like */
+    }
+    p {
+        font-weight: bold;
+    }
+    p {
+        font-size: 24px;
+    }
+    ul {
+        font-style: italic;
+    }
+    .black-text {
+        color: black;
+    }
+   p {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .box1 {
+        background-color: lightblue;
+        position: center; 
+        padding: 20px;
+        margin: 100px;
+    }
+    .box2 {
+        
+        position: middle; 
+        padding: 30px;
+        margin: 100px;
+    }
+    .box3 {
+        background-color: lightblue;
+        position: relative; 
+        padding: 5px;
+        margin: 5px;
+       
+    }
+  
+    
